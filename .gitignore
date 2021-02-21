@@ -1,5 +1,5 @@
 # User-specified
-commony/api_keys_local_SW.py
+common/api_keys_local_SW.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
