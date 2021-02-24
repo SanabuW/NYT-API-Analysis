@@ -7,7 +7,7 @@ CREATE TABLE articles_gs_app3 (
 	keywords VARCHAR,
 	pub_date VARCHAR,
 	document_type VARCHAR,
-	type_of_material VARCHAR,
+    type_of_material VARCHAR,
 	nyt_id VARCHAR,
 	word_count INT,
 	search_hits INT,
