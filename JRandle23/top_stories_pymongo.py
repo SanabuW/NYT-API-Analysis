@@ -22,11 +22,12 @@ response = requests.get(business_url)
 result = json.loads(response.content)
 results = result['results']
 results = [{'api': 'topstories' ,'title': x['title'], 'published_date': x['published_date'].split(";")} for x in results]
-
+results = [{"keywords": x["des_facet"]} for x in results]
 
 
 # Add results to business collection 
 collection.insert_many(results)
+
 
 # ---------------------------------------- #
 # POLITICS
@@ -42,7 +43,7 @@ response = requests.get(politics_url)
 # Load results as json document
 result = json.loads(response.content)
 results = result['results']
-results = [{'api': 'topstories' ,'title': x['title'], 'published_date': x['published_date']} for x in results]
+results = [{'api': 'topstories' ,'title': x['title'], 'published_date': x['published_date'].split(";")} for x in results]
 
 # Add results to politics collection 
 collection.insert_many(results)
@@ -61,7 +62,7 @@ response = requests.get(us_url)
 # Load results as json document
 result = json.loads(response.content)
 results = result['results']
-results = [{'api': 'topstories' ,'title': x['title'], 'published_date': x['published_date']} for x in results]
+results = [{'api': 'topstories' ,'title': x['title'], 'published_date': x['published_date'].split(";")} for x in results]
 
 # Add results to US collection 
 collection.insert_many(results)
@@ -80,7 +81,7 @@ response = requests.get(tech_url)
 # Load results into a json document 
 result = json.loads(response.content)
 results = result['results']
-results = [{'api': 'topstories' ,'title': x['title'], 'published_date': x['published_date']} for x in results]
+results = [{'api': 'topstories' ,'title': x['title'], 'published_date': x['published_date'].split(";")} for x in results]
 
 # Add results to technology collection 
 collection.insert_many(results)
@@ -99,7 +100,7 @@ response = requests.get(opinion_url)
 # Load results into a json document 
 result = json.loads(response.content)
 results = result['results']
-results = [{'api': 'topstories' ,'title': x['title'], 'published_date': x['published_date']} for x in results]
+results = [{'api': 'topstories' ,'title': x['title'], 'published_date': x['published_date'].split(";")} for x in results]
 
 # Add results to Opinion collection 
 collection.insert_many(results)
