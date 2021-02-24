@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import pymongo
 import json
+import datetime 
 
 # Establish connection 
 conn = 'mongodb://localhost:27017'
@@ -17,11 +18,12 @@ business_url = "https://api.nytimes.com/svc/topstories/v2/business.json?api-key=
 # Retrieve Business top stories 
 response = requests.get(business_url)
 
-# Loas results as json document
+# Load results as json document
 result = json.loads(response.content)
 results = result['results']
-results["des_facet"] = results["des_facet"].to_str()
-results = [{'api': 'topstories' ,'title': x['title'], 'published_date': x['published_date'], "des_facet": x["des_facet"].split(";")} for x in results]
+results = [{'api': 'topstories' ,'title': x['title'], 'published_date': x['published_date'].split(";")} for x in results]
+
+
 
 # Add results to business collection 
 collection.insert_many(results)
