@@ -23,6 +23,6 @@ response = requests.get(url)
 result = json.loads(response.content)
 
 results = result['results']
-results = [{'api': 'most_shared' ,'title': x['title'], 'published_date': x['published_date'], 'adx_keywords': x['adx_keywords'].split(';')} for x in results]
+results = [{'api': 'most_shared' ,'title': x['title'], 'published_date': x['published_date'], 'section': x['section'], 'subsection': x['subsection'] ,'adx_keywords': x['adx_keywords'].split(';')} for x in results]
 
 collection.insert_many(results)
