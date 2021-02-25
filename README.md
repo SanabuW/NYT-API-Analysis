@@ -12,6 +12,5 @@
    
    The Article Search API generated data about articles based on keyword. In this case we chose specific dates and the keywords "gamestop", "tesla", "mars", "election".
    
-   
-   
-    We are now ready to make queries about article metrics in New York Times database.
+  
+   We are now ready to make queries about article metrics in New York Times database.
