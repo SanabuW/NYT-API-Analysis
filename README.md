@@ -14,3 +14,8 @@
    
   
    We are now ready to make queries about article metrics in New York Times database.
+   
+   
+   *The report required for submission can be found in the directory:
+   common/Team Stonks - Writtern Report.docx
+  
