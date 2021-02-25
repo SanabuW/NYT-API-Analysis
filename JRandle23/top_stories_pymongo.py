@@ -22,7 +22,6 @@ response = requests.get(business_url)
 result = json.loads(response.content)
 results = result['results']
 results = [{'api': 'topstories' ,'title': x['title'], 'published_date': x['published_date'].split(";")} for x in results]
-results = [{"keywords": x["des_facet"]} for x in results]
 
 
 # Add results to business collection 
