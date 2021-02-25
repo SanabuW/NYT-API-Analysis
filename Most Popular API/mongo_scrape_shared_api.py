@@ -14,7 +14,7 @@ db = client.most_popular_articles_nyt_db
 collection = db.most_shared
 
 # URL of page to be scraped
-url = 'https://api.nytimes.com/svc/mostpopular/v2/shared/30/facebook.json?api-key=UO0KtPw9TJHhMgofDtUHBKCzivb20tkN'
+url = 'https://api.nytimes.com/svc/mostpopular/v2/shared/30/facebook.json?api-key=api_key'
 
 
 # Retrieve page with the requests module
