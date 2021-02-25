@@ -1,0 +1,1272 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/ac12c5dc-2f94-5fda-80d5-307b4f9b4aa2",
+            "url": "https://www.nytimes.com/2021/01/22/us/politics/jeffrey-clark-trump-justice-department-election.html",
+            "id": 100000007563674,
+            "asset_id": 100000007563674,
+            "source": "New York Times",
+            "published_date": "2021-01-22",
+            "updated": "2021-01-25 07:32:43",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Voter Fraud (Election Fraud);Presidential Election of 2020;United States Politics and Government;Rumors and Misinformation;Conspiracy Theories;Ethics and Official Misconduct;Trump, Donald J;Clark, Jeffrey B (1967- );Rosen, Jeffrey Adam (1958- );Donoghue, Richard P (1967- );Engel, Steven A;Justice Department;Georgia",
+            "column": null,
+            "byline": "By Katie Benner",
+            "type": "Article",
+            "title": "Trump and Justice Dept. Lawyer Said to Have Plotted to Oust Acting Attorney General",
+            "abstract": "Trying to find another avenue to push his baseless election claims, Donald Trump considered installing a loyalist.",
+            "des_facet": [
+                "Voter Fraud (Election Fraud)",
+                "Presidential Election of 2020",
+                "United States Politics and Government",
+                "Rumors and Misinformation",
+                "Conspiracy Theories",
+                "Ethics and Official Misconduct"
+            ],
+            "org_facet": [
+                "Justice Department"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Clark, Jeffrey B (1967- )",
+                "Rosen, Jeffrey Adam (1958- )",
+                "Donoghue, Richard P (1967- )",
+                "Engel, Steven A"
+            ],
+            "geo_facet": [
+                "Georgia"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jeffrey Clark, who led the Justice Department’s civil division, had been working with President Donald Trump to devise ways to cast doubt on the election results.",
+                    "copyright": "Susan Walsh/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/22/us/politics/22dc-justice-2/merlin_177024735_ee449546-a768-46a9-9292-1bd0ab2998cf-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/22/us/politics/22dc-justice-2/merlin_177024735_ee449546-a768-46a9-9292-1bd0ab2998cf-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/22/us/politics/22dc-justice-2/merlin_177024735_ee449546-a768-46a9-9292-1bd0ab2998cf-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/bb8ee51c-0340-5a2e-bf71-bc1b3577bbaf",
+            "url": "https://www.nytimes.com/2021/01/20/technology/proud-boys-trump.html",
+            "id": 100000007560324,
+            "asset_id": 100000007560324,
+            "source": "New York Times",
+            "published_date": "2021-01-20",
+            "updated": "2021-02-05 06:34:42",
+            "section": "Technology",
+            "subsection": "",
+            "nytdsection": "technology",
+            "adx_keywords": "Storming of the US Capitol (Jan, 2021);Right-Wing Extremism and Alt-Right;Presidential Election of 2020;United States Politics and Government;Rumors and Misinformation;Social Media;Trump, Donald J;Proud Boys",
+            "column": null,
+            "byline": "By Sheera Frenkel and Alan Feuer",
+            "type": "Article",
+            "title": "‘A Total Failure’: The Proud Boys Now Mock Trump",
+            "abstract": "Members of the far-right group, who were among Donald Trump’s staunchest fans, are calling him “weak” as more of them were charged for storming the U.S. Capitol.",
+            "des_facet": [
+                "Storming of the US Capitol (Jan, 2021)",
+                "Right-Wing Extremism and Alt-Right",
+                "Presidential Election of 2020",
+                "United States Politics and Government",
+                "Rumors and Misinformation",
+                "Social Media"
+            ],
+            "org_facet": [
+                "Proud Boys"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Members of the Proud Boys, who have engaged in political violence, at a rally in Portland, Ore., in September.",
+                    "copyright": "Diana Zeyneb Alhindawi for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/20/business/20noproudboys1/20noproudboys1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/20/business/20noproudboys1/20noproudboys1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/20/business/20noproudboys1/20noproudboys1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/fe1502f7-bfdc-559f-868e-d03b8d3f04f6",
+            "url": "https://www.nytimes.com/2021/01/20/us/biden-executive-orders.html",
+            "id": 100000007561490,
+            "asset_id": 100000007561490,
+            "source": "New York Times",
+            "published_date": "2021-01-20",
+            "updated": "2021-02-02 09:12:20",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Executive Orders and Memorandums;United States Politics and Government;Coronavirus (2019-nCoV);Masks;Immigration and Emigration;Border Barriers;Deferred Action for Childhood Arrivals;Illegal Immigration;United Nations Framework Convention on Climate Change;Discrimination;Foreclosures;Race and Ethnicity;Black People;Homosexuality and Bisexuality;Transgender and Transsexuals;Ethics and Official Misconduct;Biden, Joseph R Jr;Trump, Donald J;Rice, Susan E;1776 Commission",
+            "column": null,
+            "byline": "By Aishvarya Kavi",
+            "type": "Article",
+            "title": "Biden’s 17 Executive Orders and Other Directives in Detail",
+            "abstract": "The moves aim to strengthen protections for young immigrants, end construction of President Donald J. Trump’s border wall, end a travel ban and prioritize racial equity.",
+            "des_facet": [
+                "Executive Orders and Memorandums",
+                "United States Politics and Government",
+                "Coronavirus (2019-nCoV)",
+                "Masks",
+                "Immigration and Emigration",
+                "Border Barriers",
+                "Deferred Action for Childhood Arrivals",
+                "Illegal Immigration",
+                "United Nations Framework Convention on Climate Change",
+                "Discrimination",
+                "Foreclosures",
+                "Race and Ethnicity",
+                "Black People",
+                "Homosexuality and Bisexuality",
+                "Transgender and Transsexuals",
+                "Ethics and Official Misconduct"
+            ],
+            "org_facet": [
+                "1776 Commission"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Trump, Donald J",
+                "Rice, Susan E"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Biden signed executive orders during his first few minutes in the Oval Office on Wednesday.",
+                    "copyright": "Doug Mills/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/20/us/20dc-orders/20dc-orders-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/20/us/20dc-orders/20dc-orders-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/20/us/20dc-orders/20dc-orders-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/2641f50f-66e3-5c74-8d67-f87738c36883",
+            "url": "https://www.nytimes.com/2021/01/24/health/fauci-trump-covid.html",
+            "id": 100000007567897,
+            "asset_id": 100000007567897,
+            "source": "New York Times",
+            "published_date": "2021-01-24",
+            "updated": "2021-02-13 09:11:55",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "Coronavirus (2019-nCoV);Threats and Threatening Messages;Rumors and Misinformation;United States Politics and Government;your-feed-health;your-feed-science;Content Type: Personal Profile;Fauci, Anthony S;Trump, Donald J;National Institute of Allergy and Infectious Diseases",
+            "column": null,
+            "byline": "By Donald G. McNeil Jr.",
+            "type": "Article",
+            "title": "Fauci on What Working for Trump Was Really Like",
+            "abstract": "From denialism to death threats, Dr. Anthony S. Fauci describes a fraught year as an adviser to President Donald J. Trump on the Covid-19 pandemic.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Threats and Threatening Messages",
+                "Rumors and Misinformation",
+                "United States Politics and Government",
+                "your-feed-health",
+                "your-feed-science",
+                "Content Type: Personal Profile"
+            ],
+            "org_facet": [
+                "National Institute of Allergy and Infectious Diseases"
+            ],
+            "per_facet": [
+                "Fauci, Anthony S",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. Fauci delivered remarks on the coronavirus last April during a daily White House briefing, as President Donald Trump looked on.",
+                    "copyright": "Doug Mills/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/24/us/24VIRUS-FAUCIQA2/24VIRUS-FAUCIQA2-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/24/us/24VIRUS-FAUCIQA2/24VIRUS-FAUCIQA2-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/24/us/24VIRUS-FAUCIQA2/24VIRUS-FAUCIQA2-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/5c4506e8-e8c6-5e88-a165-3541e93bea08",
+            "url": "https://www.nytimes.com/2021/02/18/us/politics/ted-cruz-storm-cancun.html",
+            "id": 100000007612071,
+            "asset_id": 100000007612071,
+            "source": "New York Times",
+            "published_date": "2021-02-18",
+            "updated": "2021-02-19 19:21:19",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "United States Politics and Government;Travel and Vacations;Power Failures and Blackouts;Cruz, Ted;Cruz, Heidi Nelson;Texas;Cancun (Mexico)",
+            "column": null,
+            "byline": "By Shane Goldmacher and Nicholas Fandos",
+            "type": "Article",
+            "title": "Ted Cruz’s Cancún Trip: Family Texts Detail His Political Blunder",
+            "abstract": "The Texas senator faced fierce blowback for fleeing his state as a disaster unfolded. Text messages sent by his wife revealed a hastily planned trip away from their “FREEZING” family home.",
+            "des_facet": [
+                "United States Politics and Government",
+                "Travel and Vacations",
+                "Power Failures and Blackouts"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Cruz, Ted",
+                "Cruz, Heidi Nelson"
+            ],
+            "geo_facet": [
+                "Texas",
+                "Cancun (Mexico)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senator Ted Cruz at the airport in Cancún on Thursday, as he returned to the United States. “What’s happening in Texas is unacceptable,” he told a television crew.",
+                    "copyright": "Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/20/us/politics/18cruz/18cruz-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/20/us/politics/18cruz/18cruz-mediumThreeByTwo210-v5.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/20/us/politics/18cruz/18cruz-mediumThreeByTwo440-v5.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/f7729a7a-0c03-58ac-8729-1f6ef44e434f",
+            "url": "https://www.nytimes.com/2021/02/11/us/politics/trump-coronavirus.html",
+            "id": 100000007597828,
+            "asset_id": 100000007597828,
+            "source": "New York Times",
+            "published_date": "2021-02-11",
+            "updated": "2021-02-12 09:12:34",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "White House Coronavirus Outbreak (2020);Coronavirus (2019-nCoV);Dexamethasone (Drug);Antibodies;United States Politics and Government;Trump, Donald J;Conley, Sean Patrick;Regeneron Pharmaceuticals Inc;Food and Drug Administration",
+            "column": null,
+            "byline": "By Noah Weiland, Maggie Haberman, Mark Mazzetti and Annie Karni",
+            "type": "Article",
+            "title": "Trump Was Sicker Than Acknowledged With Covid-19",
+            "abstract": "When he was hospitalized with the coronavirus in October, his blood oxygen levels had plunged and officials feared he was on the verge of being placed on a ventilator.",
+            "des_facet": [
+                "White House Coronavirus Outbreak (2020)",
+                "Coronavirus (2019-nCoV)",
+                "Dexamethasone (Drug)",
+                "Antibodies",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Regeneron Pharmaceuticals Inc",
+                "Food and Drug Administration"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Conley, Sean Patrick"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Donald J. Trump arriving at Walter Reed National Military Medical Center in October after testing positive for the coronavirus.",
+                    "copyright": "Doug Mills/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/11/us/politics/11dc-trump-health1/11dc-trump-health1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/11/us/politics/11dc-trump-health1/11dc-trump-health1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/11/us/politics/11dc-trump-health1/11dc-trump-health1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/8f8ea660-5df4-5ddc-be8d-a3a9d9417c51",
+            "url": "https://www.nytimes.com/2021/02/09/style/cat-lawyer-zoom.html",
+            "id": 100000007596178,
+            "asset_id": 100000007596178,
+            "source": "New York Times",
+            "published_date": "2021-02-09",
+            "updated": "2021-02-10 09:49:17",
+            "section": "Style",
+            "subsection": "",
+            "nytdsection": "style",
+            "adx_keywords": "Cats;Videophones and Videoconferencing",
+            "column": null,
+            "byline": "By Daniel Victor",
+            "type": "Article",
+            "title": "‘I’m Not a Cat,’ Says Lawyer Having Zoom Difficulties",
+            "abstract": "The video was immediately shared widely and brought joy to many. The lawyer, Rod Ponton, said he was happy people got a much-needed laugh.",
+            "des_facet": [
+                "Cats",
+                "Videophones and Videoconferencing"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "During a hearing on Tuesday in Texas’ 394th Judicial District Court, a lawyer who, despite appearances, is not a cat had to clarify the situation before a judge.",
+                    "copyright": "",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/09/world/oakImage-1612906052458/oakImage-1612906052458-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/09/world/oakImage-1612906052458/oakImage-1612906052458-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/09/world/oakImage-1612906052458/oakImage-1612906052458-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/f888f8c8-4a43-5db9-9712-96eef1618b15",
+            "url": "https://www.nytimes.com/2021/02/10/us/houston-doctor-fired-covid-vaccine.html",
+            "id": 100000007596567,
+            "asset_id": 100000007596567,
+            "source": "New York Times",
+            "published_date": "2021-02-10",
+            "updated": "2021-02-19 13:44:37",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Vaccination and Immunization;Coronavirus (2019-nCoV);Ethics and Official Misconduct;Doctors;Gokal, Hasan (1972- );Bynum, Franklin;Ogg, Kim;Texas",
+            "column": null,
+            "byline": "By Dan Barry",
+            "type": "Article",
+            "title": "The Vaccine Had to Be Used. He Used It. He Was Fired.",
+            "abstract": "Ten doses of the Covid-19 vaccine would expire within hours, so a Houston doctor gave it to people with medical conditions, including his wife. What followed was “the lowest moment in my life,” Dr. Hasan Gokal said.",
+            "des_facet": [
+                "Vaccination and Immunization",
+                "Coronavirus (2019-nCoV)",
+                "Ethics and Official Misconduct",
+                "Doctors"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Gokal, Hasan (1972- )",
+                "Bynum, Franklin",
+                "Ogg, Kim"
+            ],
+            "geo_facet": [
+                "Texas"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. Hasan Gokal at home in Sugar Land, Tex. He has faced a scandal over his administration of the coronavirus vaccine.",
+                    "copyright": "Brandon Thibodeaux for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/12/multimedia/00covid-doctor-1/00covid-doctor-1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/12/multimedia/00covid-doctor-1/00covid-doctor-1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/12/multimedia/00covid-doctor-1/00covid-doctor-1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/7952c752-88a9-53db-b1fa-cafd45fa815b",
+            "url": "https://www.nytimes.com/2021/02/03/realestate/luxury-high-rise-432-park.html",
+            "id": 100000007575722,
+            "asset_id": 100000007575722,
+            "source": "New York Times",
+            "published_date": "2021-02-03",
+            "updated": "2021-02-16 11:35:31",
+            "section": "Real Estate",
+            "subsection": "",
+            "nytdsection": "real estate",
+            "adx_keywords": "Real Estate and Housing (Residential);Building (Construction);Quarantine (Life and Culture);Condominiums;High Net Worth Individuals;Elevators and Escalators;432 Park Avenue (Manhattan, NY, Apartments);432 Park Avenue (Manhattan, NY, Restaurant);CIM Group;Douglas Elliman Real Estate;Macklowe Properties;Billionaires' Row (Manhattan, NY);New York City",
+            "column": null,
+            "byline": "By Stefanos Chen",
+            "type": "Article",
+            "title": "The Downside to Life in a Supertall Tower: Leaks, Creaks, Breaks",
+            "abstract": "432 Park, one of the wealthiest addresses in the world, faces some significant design problems, and other luxury high-rises may share its fate.",
+            "des_facet": [
+                "Real Estate and Housing (Residential)",
+                "Building (Construction)",
+                "Quarantine (Life and Culture)",
+                "Condominiums",
+                "High Net Worth Individuals",
+                "Elevators and Escalators"
+            ],
+            "org_facet": [
+                "432 Park Avenue (Manhattan, NY, Apartments)",
+                "432 Park Avenue (Manhattan, NY, Restaurant)",
+                "CIM Group",
+                "Douglas Elliman Real Estate",
+                "Macklowe Properties"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Billionaires' Row (Manhattan, NY)",
+                "New York City"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Resident complaints at 432 Park, once the tallest residential building in the world, and a symbol of the luxury condo boom of the last decade, are revealing strife inside one of the city’s most secretive and exclusive towers.",
+                    "copyright": "Karsten Moran for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/07/realestate/03ticket2/03ticket2-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/07/realestate/03ticket2/merlin_154802808_55edfd9c-7086-4225-9690-8ccf7e5fa85a-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/07/realestate/03ticket2/merlin_154802808_55edfd9c-7086-4225-9690-8ccf7e5fa85a-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/843f7250-9838-5c56-af37-5ca686d7f5a6",
+            "url": "https://www.nytimes.com/2021/01/31/us/trump-election-lie.html",
+            "id": 100000007563821,
+            "asset_id": 100000007563821,
+            "source": "New York Times",
+            "published_date": "2021-01-31",
+            "updated": "2021-02-12 14:04:08",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Presidential Election of 2020;Rumors and Misinformation;Right-Wing Extremism and Alt-Right;Voter Fraud (Election Fraud);Suits and Litigation (Civil);United States Politics and Government;Voting Machines;Attorneys General;Trump, Donald J;Giuliani, Rudolph W;McConnell, Mitch;Clark, Justin Reilly (1975- );Montgomery, Dennis Lee (1953- );McInerney, Thomas G;Gosar, Paul (1958- );Barr, William P;Kobach, Kris W;Paxton, Ken;Kremer, Amy;Kremer, Kylie Jane;Lindell, Mike;Cipollone, Pat A;Women for America First;Dominion Voting Systems Corp",
+            "column": null,
+            "byline": "By Jim Rutenberg, Jo Becker, Eric Lipton, Maggie Haberman, Jonathan Martin, Matthew Rosenberg and Michael S. Schmidt",
+            "type": "Article",
+            "title": "77 Days: Trump’s Campaign to Subvert the Election",
+            "abstract": "Hours after the United States voted, the president declared the election a fraud — a lie that unleashed a movement that would shatter democratic norms and upend the peaceful transfer of power.",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "Rumors and Misinformation",
+                "Right-Wing Extremism and Alt-Right",
+                "Voter Fraud (Election Fraud)",
+                "Suits and Litigation (Civil)",
+                "United States Politics and Government",
+                "Voting Machines",
+                "Attorneys General"
+            ],
+            "org_facet": [
+                "Women for America First",
+                "Dominion Voting Systems Corp"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Giuliani, Rudolph W",
+                "McConnell, Mitch",
+                "Clark, Justin Reilly (1975- )",
+                "Montgomery, Dennis Lee (1953- )",
+                "McInerney, Thomas G",
+                "Gosar, Paul (1958- )",
+                "Barr, William P",
+                "Kobach, Kris W",
+                "Paxton, Ken",
+                "Kremer, Amy",
+                "Kremer, Kylie Jane",
+                "Lindell, Mike",
+                "Cipollone, Pat A"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/01/us/01trump-lie-promo/01trump-lie-02-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/01/us/01trump-lie-promo/01trump-lie-02-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/01/us/01trump-lie-promo/01trump-lie-02-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/09ec2327-d248-5406-ad16-4f899d693fb4",
+            "url": "https://www.nytimes.com/2021/01/19/books/amanda-gorman-inauguration-hill-we-climb.html",
+            "id": 100000007557014,
+            "asset_id": 100000007557014,
+            "source": "New York Times",
+            "published_date": "2021-01-19",
+            "updated": "2021-01-21 11:57:00",
+            "section": "Books",
+            "subsection": "",
+            "nytdsection": "books",
+            "adx_keywords": "Poetry and Poets;Inaugurations;United States Politics and Government;Content Type: Personal Profile;Poets Laureate;Books and Literature;Gorman, Amanda;Biden, Joseph R Jr;Los Angeles (Calif);United States",
+            "column": null,
+            "byline": "By Alexandra Alter",
+            "type": "Article",
+            "title": "Amanda Gorman Captures the Moment, in Verse",
+            "abstract": "The youngest inaugural poet in U.S. history read “The Hill We Climb,” which she finished after the riot at the Capitol. “I’m not going to in any way gloss over what we’ve seen,” she says.",
+            "des_facet": [
+                "Poetry and Poets",
+                "Inaugurations",
+                "United States Politics and Government",
+                "Content Type: Personal Profile",
+                "Poets Laureate",
+                "Books and Literature"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Gorman, Amanda",
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [
+                "Los Angeles (Calif)",
+                "United States"
+            ],
+            "media": [],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/00ddf6d8-ea5a-51ab-bbc9-996dfc438065",
+            "url": "https://www.nytimes.com/2021/01/31/science/andrew-brooks-dead.html",
+            "id": 100000007576275,
+            "asset_id": 100000007576275,
+            "source": "New York Times",
+            "published_date": "2021-01-31",
+            "updated": "2021-02-03 00:51:45",
+            "section": "Science",
+            "subsection": "",
+            "nytdsection": "science",
+            "adx_keywords": "Deaths (Obituaries);Coronavirus (2019-nCoV);Tests (Medical);Brooks, Andrew (1969-2012);Rutgers, The State University of New Jersey",
+            "column": null,
+            "byline": "By Clay Risen",
+            "type": "Article",
+            "title": "Andrew Brooks, Who Developed a Coronavirus Spit Test, Dies at 51",
+            "abstract": "His breakthrough helped millions get their results quickly in the early days of the pandemic, when tests were scarce and lines were long.",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Coronavirus (2019-nCoV)",
+                "Tests (Medical)"
+            ],
+            "org_facet": [
+                "Rutgers, The State University of New Jersey"
+            ],
+            "per_facet": [
+                "Brooks, Andrew (1969-2012)"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Andrew Brooks in April 2020 at his lab at Rutgers. He made worldwide news after the Covid-19 saliva test he developed received emergency approval from the Food and Drug Administration.",
+                    "copyright": "Nick Romanenko",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/03/obituaries/29Brooks1/29Brooks1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/03/obituaries/29Brooks1/29Brooks1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/03/obituaries/29Brooks1/29Brooks1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/651f571a-1485-5e13-9877-d6dc772fcf2d",
+            "url": "https://www.nytimes.com/2021/02/05/us/politics/biden-trump-intelligence-briefings.html",
+            "id": 100000007590807,
+            "asset_id": 100000007590807,
+            "source": "New York Times",
+            "published_date": "2021-02-05",
+            "updated": "2021-02-10 09:01:49",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Classified Information and State Secrets;Espionage and Intelligence Services;United States Politics and Government;Impeachment;Biden, Joseph R Jr;Trump, Donald J;Office of the Director of National Intelligence",
+            "column": null,
+            "byline": "By David E. Sanger",
+            "type": "Article",
+            "title": "Biden Bars Trump From Receiving Intelligence Briefings, Citing ‘Erratic Behavior’",
+            "abstract": "President Biden said there was “no need” for former President Donald J. Trump to get the briefings, traditionally given to ex-presidents as a courtesy and to keep them informed if their advice is needed.",
+            "des_facet": [
+                "Classified Information and State Secrets",
+                "Espionage and Intelligence Services",
+                "United States Politics and Government",
+                "Impeachment"
+            ],
+            "org_facet": [
+                "Office of the Director of National Intelligence"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Biden on Friday at Joint Base Andrews near Washington.",
+                    "copyright": "Samuel Corum for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/05/multimedia/05dc-biden-intel-breifing-trump/05dc-biden-intel-breifing-trump-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/05/multimedia/05dc-biden-intel-breifing-trump/05dc-biden-intel-breifing-trump-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/05/multimedia/05dc-biden-intel-breifing-trump/05dc-biden-intel-breifing-trump-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/7800ff38-9ff0-538d-a099-e2af0c5b11a3",
+            "url": "https://www.nytimes.com/2021/01/22/business/biden-food-stamps-stimulus-checks.html",
+            "id": 100000007564527,
+            "asset_id": 100000007564527,
+            "source": "New York Times",
+            "published_date": "2021-01-22",
+            "updated": "2021-01-23 10:23:31",
+            "section": "Business",
+            "subsection": "",
+            "nytdsection": "business",
+            "adx_keywords": "Executive Orders and Memorandums;Food Stamps;Food Insecurity;Minimum Wage;Government Employees;Government Contracts and Procurement;Unemployment Insurance;Collective Bargaining;Coronavirus Aid, Relief, and Economic Security Act (2020);Stimulus (Economic);Coronavirus (2019-nCoV);Workplace Hazards and Violations;Federal Aid (US);United States Economy;United States Politics and Government;Biden, Joseph R Jr",
+            "column": null,
+            "byline": "By Jim Tankersley and Alan Rappeport",
+            "type": "Article",
+            "title": "Biden Signs Orders to Expand Food Stamps and Raise Wages, but Says Economy Needs More Help",
+            "abstract": "The president called it an “economic imperative” to provide more aid for millions of Americans who are struggling to make ends meet as the virus exacts a bruising toll.",
+            "des_facet": [
+                "Executive Orders and Memorandums",
+                "Food Stamps",
+                "Food Insecurity",
+                "Minimum Wage",
+                "Government Employees",
+                "Government Contracts and Procurement",
+                "Unemployment Insurance",
+                "Collective Bargaining",
+                "Coronavirus Aid, Relief, and Economic Security Act (2020)",
+                "Stimulus (Economic)",
+                "Coronavirus (2019-nCoV)",
+                "Workplace Hazards and Violations",
+                "Federal Aid (US)",
+                "United States Economy",
+                "United States Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Biden signed two executive orders on Friday aimed at providing economic relief to the unemployed and others suffering during the pandemic.",
+                    "copyright": "Anna Moneymaker for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/22/us/22dc-biden-orders01alt/22dc-biden-orders01alt-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/22/us/22dc-biden-orders01alt/22dc-biden-orders01alt-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/22/us/22dc-biden-orders01alt/22dc-biden-orders01alt-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/ec5a8d09-b46d-5a2b-9f1f-3f5c79c98150",
+            "url": "https://www.nytimes.com/2021/01/27/business/gamestop-wall-street-bets.html",
+            "id": 100000007572080,
+            "asset_id": 100000007572080,
+            "source": "New York Times",
+            "published_date": "2021-01-27",
+            "updated": "2021-02-01 08:41:17",
+            "section": "Business",
+            "subsection": "",
+            "nytdsection": "business",
+            "adx_keywords": "Stocks and Bonds;Hedge Funds;Securities and Commodities Violations;Social Media;Short Selling;Financial Brokers;GameStop Corporation;Reddit Inc",
+            "column": null,
+            "byline": "By Matt Phillips and Taylor Lorenz",
+            "type": "Article",
+            "title": "‘Dumb Money’ Is on GameStop, and It’s Beating Wall Street at Its Own Game",
+            "abstract": "GameStop shares have soared 1,700 percent as millions of small investors, egged on by social media, employ a classic Wall Street tactic to put the squeeze — on Wall Street.",
+            "des_facet": [
+                "Stocks and Bonds",
+                "Hedge Funds",
+                "Securities and Commodities Violations",
+                "Social Media",
+                "Short Selling",
+                "Financial Brokers"
+            ],
+            "org_facet": [
+                "GameStop Corporation",
+                "Reddit Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A GameStop near Union Square in Manhattan. Investors fueled by a forum on Reddit have pushed GameStop shares into the stratosphere and crippled short sellers.",
+                    "copyright": "Hiroko Masuike/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/27/business/27GameStop-01sub/27GameStop-01sub-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/27/business/27GameStop-01sub/27GameStop-01sub-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/27/business/27GameStop-01sub/27GameStop-01sub-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/1bed10f0-691a-53f9-930a-49cf94110d13",
+            "url": "https://www.nytimes.com/2021/01/29/health/Covid-vaccine-explainer.html",
+            "id": 100000007577564,
+            "asset_id": 100000007577564,
+            "source": "New York Times",
+            "published_date": "2021-01-29",
+            "updated": "2021-02-03 18:27:49",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "Vaccination and Immunization;Coronavirus (2019-nCoV);Content Type: Service;Coronavirus Risks and Safety Concerns;Clinical Trials;your-feed-healthcare;Johnson \u0026 Johnson;Moderna Inc;Pfizer Inc;AstraZeneca PLC;Novavax Inc",
+            "column": null,
+            "byline": "By Denise Grady",
+            "type": "Article",
+            "title": "Which Covid Vaccine Should You Get? Experts Cite the Effect Against Severe Disease",
+            "abstract": "Infectious disease doctors say getting a shot of the J\u0026J vaccine, which has a lower efficacy against the virus than other vaccines, would still be well worthwhile.",
+            "des_facet": [
+                "Vaccination and Immunization",
+                "Coronavirus (2019-nCoV)",
+                "Content Type: Service",
+                "Coronavirus Risks and Safety Concerns",
+                "Clinical Trials",
+                "your-feed-healthcare"
+            ],
+            "org_facet": [
+                "Johnson \u0026 Johnson",
+                "Moderna Inc",
+                "Pfizer Inc",
+                "AstraZeneca PLC",
+                "Novavax Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Covid vaccinations in Santa Barbara County, Calif., this week.",
+                    "copyright": "Daniel Dreifuss for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/04/science/2VIRUS-VACCINE-EXPLAINER/2VIRUS-VACCINE-EXPLAINER-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/04/science/2VIRUS-VACCINE-EXPLAINER/2VIRUS-VACCINE-EXPLAINER-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/04/science/2VIRUS-VACCINE-EXPLAINER/2VIRUS-VACCINE-EXPLAINER-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/cfef6e96-4554-598b-8278-99e3b40d16cf",
+            "url": "https://www.nytimes.com/2021/01/30/business/gamestop-stock-profit.html",
+            "id": 100000007578853,
+            "asset_id": 100000007578853,
+            "source": "New York Times",
+            "published_date": "2021-01-30",
+            "updated": "2021-01-31 14:18:27",
+            "section": "Business",
+            "subsection": "",
+            "nytdsection": "business",
+            "adx_keywords": "Stocks and Bonds;Personal Finances;GameStop Corporation",
+            "column": null,
+            "byline": "By Christina Morales",
+            "type": "Article",
+            "title": "A 10-Year-Old GameStop Investor Cashed In. His Return? Over 5,000%.",
+            "abstract": "Jaydyn Carr of San Antonio made $3,200 on shares from GameStop this week that his mother bought him in 2019 for about $60.",
+            "des_facet": [
+                "Stocks and Bonds",
+                "Personal Finances"
+            ],
+            "org_facet": [
+                "GameStop Corporation"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jaydyn Carr with a certificate his mother, Nina Carr, made to commemorate a Kwanzaa gift of 10 shares of GameStop.",
+                    "copyright": "Nina Carr",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/31/multimedia/29xp-gamestop-kid/merlin_182985288_ddab80c5-066e-4bca-931b-fb2a9ae27742-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/31/multimedia/29xp-gamestop-kid/29xp-gamestop-kid-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/31/multimedia/29xp-gamestop-kid/29xp-gamestop-kid-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/244a46f8-4e1a-5d2f-9758-5ef396c1dba9",
+            "url": "https://www.nytimes.com/2021/01/24/us/politics/jackson-reffitt-father-capitol-riot.html",
+            "id": 100000007567507,
+            "asset_id": 100000007567507,
+            "source": "New York Times",
+            "published_date": "2021-01-24",
+            "updated": "2021-02-02 12:10:54",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Storming of the US Capitol (Jan, 2021);Right-Wing Extremism and Alt-Right;Threats and Threatening Messages;United States Politics and Government;Reffitt, Guy W;Reffitt, Jackson;Federal Bureau of Investigation;Bryan (Tex)",
+            "column": null,
+            "byline": "By Bryan Pietsch",
+            "type": "Article",
+            "title": "Son Tipped Off F.B.I. About His Father, Who Is Charged in Capitol Riot",
+            "abstract": "“I put my emotions behind me to do what I thought was right,” said Jackson Reffitt, who weeks before the siege alerted the F.B.I. that his father was planning “something big.”",
+            "des_facet": [
+                "Storming of the US Capitol (Jan, 2021)",
+                "Right-Wing Extremism and Alt-Right",
+                "Threats and Threatening Messages",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Federal Bureau of Investigation"
+            ],
+            "per_facet": [
+                "Reffitt, Guy W",
+                "Reffitt, Jackson"
+            ],
+            "geo_facet": [
+                "Bryan (Tex)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jackson Reffitt contacted the F.B.I. about his father, Guy Reffitt.",
+                    "copyright": "FOX4News.com",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/25/lens/25-XP-REFFITT-PRINT/25-XP-REFFITT-PRINT-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/25/lens/25-XP-REFFITT-PRINT/25-XP-REFFITT-PRINT-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/25/lens/25-XP-REFFITT-PRINT/25-XP-REFFITT-PRINT-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/cf091d49-9fb3-5538-81f2-7a6d74c6ad0e",
+            "url": "https://www.nytimes.com/2021/02/17/nyregion/atlantic-city-trump-plaza-implosion.html",
+            "id": 100000007602359,
+            "asset_id": 100000007602359,
+            "source": "New York Times",
+            "published_date": "2021-02-17",
+            "updated": "2021-02-18 10:48:08",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "Casinos;Demolition;United States Politics and Government;Bankruptcies;Auctions;Gambling;Trump, Donald J;Icahn, Carl C;Trump Plaza Hotel \u0026 Casino (Atlantic City, NJ);Atlantic City (NJ)",
+            "column": null,
+            "byline": "By Tracey Tully",
+            "type": "Article",
+            "title": "Watch the Trump Era in Atlantic City End With 3,000 Sticks of Dynamite",
+            "abstract": "The implosion of Trump Plaza Hotel and Casino, the last vestige of the former president’s once-dominant brand in Atlantic City, N.J., took place Wednesday morning.",
+            "des_facet": [
+                "Casinos",
+                "Demolition",
+                "United States Politics and Government",
+                "Bankruptcies",
+                "Auctions",
+                "Gambling"
+            ],
+            "org_facet": [
+                "Trump Plaza Hotel \u0026 Casino (Atlantic City, NJ)"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Icahn, Carl C"
+            ],
+            "geo_facet": [
+                "Atlantic City (NJ)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump Plaza Hotel and Casino was the first of three casinos Donald J. Trump owned in Atlantic City before they eventually went bankrupt.",
+                    "copyright": "John Taggart for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/17/nyregion/17trumpcasino-promo/17trumpcasino-promo-thumbStandard-v6.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/17/nyregion/17trumpcasino-promo/17trumpcasino-promo-mediumThreeByTwo210-v5.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/17/nyregion/17trumpcasino-promo/17trumpcasino-promo-mediumThreeByTwo440-v5.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/c43a650b-cb91-5915-acc1-0f3fdaae8baf",
+            "url": "https://www.nytimes.com/2021/01/29/health/covid-vaccine-johnson-and-johnson-variants.html",
+            "id": 100000007576531,
+            "asset_id": 100000007576531,
+            "source": "New York Times",
+            "published_date": "2021-01-29",
+            "updated": "2021-01-30 00:27:58",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "Clinical Trials;Vaccination and Immunization;Coronavirus (2019-nCoV);your-feed-healthcare;Johnson \u0026 Johnson",
+            "column": null,
+            "byline": "By Carl Zimmer, Noah Weiland and Sharon LaFraniere",
+            "type": "Article",
+            "title": "Johnson \u0026 Johnson’s Vaccine Offers Strong Protection but Fuels Concern About Variants",
+            "abstract": "The vaccine’s efficacy rate dropped from 72 percent in the United States to just 57 percent in South Africa, where a highly contagious variant is driving most cases.",
+            "des_facet": [
+                "Clinical Trials",
+                "Vaccination and Immunization",
+                "Coronavirus (2019-nCoV)",
+                "your-feed-healthcare"
+            ],
+            "org_facet": [
+                "Johnson \u0026 Johnson"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A dose of Johnson \u0026amp; Johnson’s vaccine candidate was prepared at the Rocky Mountain Regional VA Medical Center in Aurora, Colo., last month.",
+                    "copyright": "Michael Ciaglo/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/29/science/29VIRUS-JNJ1/29VIRUS-JNJ1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/29/science/29VIRUS-JNJ1/29VIRUS-JNJ1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/01/29/science/29VIRUS-JNJ1/29VIRUS-JNJ1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}
