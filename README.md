@@ -1,21 +1,49 @@
-# ETL-Project
-      
-   This project examined the Extract, Transform, and Load methods with the New York Times API. We explored the Archive API, Top Stories API, Article search API, and Most popular API to answer the question, “Do we like the stock?” The stock in question being, Gamestop (GME).
-   
-   We chose to use a No-SQL database which allows for the data to be stored in a collection. The keys of the collection were then queryable. Keys such as “Title”, “Headline”, and “keywords.”
-   
-   The Most Popular API generated data about the most viewed, most emailed and most shared on facebook articles, in the last 30 days.
-   
-   The Top Stories API generated metadata on all of the articles currently on the landing page for each section of the NYT.  We chose to do Business, Technology, US, Politics, and Opinion sections, where we were able to pull the title and published date information to input into MongoDB.
-   
-   The Archive API generated metadata on all of the articles within a given month. This metadata was inserted into a Mongo database. From this database, keywords such as “Gamestop” were searchable. 
-   
-   The Article Search API generated data about articles based on keyword. In this case we chose specific dates and the keywords "gamestop", "tesla", "mars", "election".
-   
+# New York Times Article Data ETL
+
+## Summary
+A series of API scripts in Python that access New York Time's database APIs to query for information on articles through multiple approaches.
+
+<img src="resources/images/exoplanet_banner.jpg" width="800" height="412"/>
+
+
+## Files Workflow
+A no-SQL database was chosen to load the initial data to match the non-normalized JSON data structures of the API responses. 
+
+### Most Popular API
+The Most Popular API generated data about the most viewed, most emailed and most shared on facebook articles, in the last 30 days.
+<img src="resources/images/exoplanet_banner.jpg" width="800" height="412"/>
+
+### Top Stories API
+The Top Stories API generated metadata on all of the articles currently on the landing page for each section of the NYT.  We chose to do Business, Technology, US, Politics, and Opinion sections, where we were able to pull the title and published date information to input into MongoDB.
+
+<img src="resources/images/exoplanet_banner.jpg" width="800" height="412"/>
+
+### Archive API
+The Archive API generated metadata on all of the articles within a given month. This metadata was inserted into a Mongo database. From this database, keywords such as “Gamestop” were searchable. 
+
+<img src="resources/images/exoplanet_banner.jpg" width="800" height="412"/>
+
+### Article Search API
+The Article Search API generated data about articles based on keyword. In this case we chose specific dates and the keywords "gamestop", "tesla", "mars", "election".
+
+#### Raw Data ETL
+Each keyword is given its own collection within the Mongo database, which will list all records that appear within that keyword's API query.
+
+<img src="resources/images/exoplanet_banner.jpg" width="800" height="412"/>
+
+The script app_3_pt1_mongodb_loader.ipynb first creates a raw copy of article data for localized access. The script queries for articles using the selected keywords, retrieving a JSON document. The data is transformed into Python objects for each article, keeping all key-value pairs of the JSON intact. Each object is then loaded into a Mongo database with each article as a database record.
+
+#### Processed Data ETL
+The data for each article is then retrieved from the mongoDB, and then cleaned of any unnecessary info within app3_pt2_pgloader.ipynb, and applied into a postgreSQL database. 
+
+<img src="resources/images/exoplanet_banner.jpg" width="800" height="412"/>
+
+With the data cleaned, analyses can now be performed. A simple example analysis of the number of articles generated per keyword can be found in analysis.ipynb.
+
+<img src="resources/images/exoplanet_banner.jpg" width="800" height="412"/>
+
+*The report required for submission can be found in the directory:
+common/Team Stonks - Writtern Report.docx
   
-   We are now ready to make queries about article metrics in New York Times database.
-   
-   
-   *The report required for submission can be found in the directory:
-   common/Team Stonks - Writtern Report.docx
-  
+## Credits
+(2021) The New York Times Company
