@@ -11,6 +11,7 @@ A no-SQL database was chosen to load the initial data to match the non-normalize
 
 ### Most Popular API
 The Most Popular API generated data about the most viewed, most emailed and most shared on facebook articles, in the last 30 days.
+
 <img src="common/readme_images/img_002.png" width="600"/>
 
 ### Top Stories API
