@@ -1,9 +1,9 @@
 # New York Times Article Data ETL
 
 ## Summary
-A series of API scripts in Python that access New York Time's database APIs to query for information on articles through multiple approaches.
+A series of Python scripts that access New York Time's database APIs to query for information on articles through multiple approaches.
 
-<img src="resources/images/exoplanet_banner.jpg" width="800" height="412"/>
+<img src="common/readme_images/exoplanet_banner.jpg" width="600" height="412"/>
 
 
 ## Files Workflow
@@ -11,17 +11,17 @@ A no-SQL database was chosen to load the initial data to match the non-normalize
 
 ### Most Popular API
 The Most Popular API generated data about the most viewed, most emailed and most shared on facebook articles, in the last 30 days.
-<img src="resources/images/exoplanet_banner.jpg" width="800" height="412"/>
+<img src="common/readme_images/img_001.jpg" width="600" height="412"/>
 
 ### Top Stories API
 The Top Stories API generated metadata on all of the articles currently on the landing page for each section of the NYT.  We chose to do Business, Technology, US, Politics, and Opinion sections, where we were able to pull the title and published date information to input into MongoDB.
 
-<img src="resources/images/exoplanet_banner.jpg" width="800" height="412"/>
+<img src="common/readme_images/img_002.jpg" width="600" height="412"/>
 
 ### Archive API
 The Archive API generated metadata on all of the articles within a given month. This metadata was inserted into a Mongo database. From this database, keywords such as “Gamestop” were searchable. 
 
-<img src="resources/images/exoplanet_banner.jpg" width="800" height="412"/>
+<img src="common/readme_images/img_003.jpg" width="600" height="412"/>
 
 ### Article Search API
 The Article Search API generated data about articles based on keyword. In this case we chose specific dates and the keywords "gamestop", "tesla", "mars", "election".
@@ -29,18 +29,18 @@ The Article Search API generated data about articles based on keyword. In this c
 #### Raw Data ETL
 Each keyword is given its own collection within the Mongo database, which will list all records that appear within that keyword's API query.
 
-<img src="resources/images/exoplanet_banner.jpg" width="800" height="412"/>
+<img src="common/readme_images/img_004.jpg" width="600" height="412"/>
 
 The script app_3_pt1_mongodb_loader.ipynb first creates a raw copy of article data for localized access. The script queries for articles using the selected keywords, retrieving a JSON document. The data is transformed into Python objects for each article, keeping all key-value pairs of the JSON intact. Each object is then loaded into a Mongo database with each article as a database record.
 
 #### Processed Data ETL
 The data for each article is then retrieved from the mongoDB, and then cleaned of any unnecessary info within app3_pt2_pgloader.ipynb, and applied into a postgreSQL database. 
 
-<img src="resources/images/exoplanet_banner.jpg" width="800" height="412"/>
+<img src="common/readme_images/img_005.jpg" width="600" height="412"/>
 
 With the data cleaned, analyses can now be performed. A simple example analysis of the number of articles generated per keyword can be found in analysis.ipynb.
 
-<img src="resources/images/exoplanet_banner.jpg" width="800" height="412"/>
+<img src="common/readme_images/img_006.jpg" width="400" height="412"/>
 
 *The report required for submission can be found in the directory:
 common/Team Stonks - Writtern Report.docx
